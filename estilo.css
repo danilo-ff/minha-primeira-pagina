@@ -1,0 +1,19 @@
+div{
+	background-image: url(image/mandalorian.png);
+	background-attachment: fixed;
+	
+
+	font-family: "Comic Sans MS", Helvetica, "Times New Roman",Arial,Montserrat,sans-serif;
+	font-variant: small-caps;
+	text-align: left;
+		
+}
+
+#rodape{
+	background: rgba(161, 181, 155, 0.4); 
+	text-align: center;
+}
+
+
+
+		
